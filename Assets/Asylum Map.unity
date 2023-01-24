@@ -7109,6 +7109,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4679729498770151889, guid: 40ee7f52c75028d44bdaeac75b0a6eef, type: 3}
+      propertyPath: speedRandomness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4679729498770151889, guid: 40ee7f52c75028d44bdaeac75b0a6eef, type: 3}
+      propertyPath: flickerIntensity
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40ee7f52c75028d44bdaeac75b0a6eef, type: 3}
 --- !u!1001 &609723316
